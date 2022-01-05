@@ -1,0 +1,31 @@
+ul > li > a {
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+    font-size: 2em;
+}
+
+.menu {
+    font-weight: bolder;
+}
+
+nav {
+    background-color: rgb(194, 181, 181);
+}
+
+section{
+    background-color: rgb(194, 181, 181);
+}
+
+section > span {
+    display: inline-block;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+section > p {
+    font-size: 1em;
+}
